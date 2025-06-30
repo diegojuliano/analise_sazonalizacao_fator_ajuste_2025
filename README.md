@@ -16,8 +16,8 @@ Este projeto **analisa dados de sazonalização da garantia física no MRE em 20
 ## ⚡ **Contexto Regulatório**
 
 O Mecanismo de Realocação de Energia (MRE) compartilha riscos hidrológicos entre hidrelétricas, enquanto a sazonalização da garantia física modula a energia ao longo do ano, alinhando receitas e operação.
+Este estudo permite entender:  
 
-Este estudo permite entender:
 🔹 A variação sazonal do lastro no ano.  
 🔹 A relevância do MRE na modulação do sistema.  
 🔹 Suporte a estratégias de comercialização e previsibilidade de caixa.
