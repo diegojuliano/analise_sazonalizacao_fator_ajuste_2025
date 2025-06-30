@@ -18,23 +18,20 @@ Este projeto **analisa dados de sazonalização da garantia física no MRE em 20
 O Mecanismo de Realocação de Energia (MRE) compartilha riscos hidrológicos entre hidrelétricas, enquanto a sazonalização da garantia física modula a energia ao longo do ano, alinhando receitas e operação.
 
 Este estudo permite entender:
-🔹 A variação sazonal do lastro no ano.
-🔹 A relevância do MRE na modulação do sistema.
+🔹 A variação sazonal do lastro no ano.  
+🔹 A relevância do MRE na modulação do sistema.  
 🔹 Suporte a estratégias de comercialização e previsibilidade de caixa.
 
 ---
 
 ## **🛠️ Etapas Realizadas**
 
-1️⃣ **Importação e limpeza de dados.**
-2️⃣ **Conversão e organização das colunas.**
-3️⃣ **Criação de gráficos para análise setorial:**
-
-Evolução da garantia física sazonalizada.
-
-Comparação do lastro MRE vs. fora do MRE.
-
-Percentual de cada lastro em relação ao total sazonalizado.
+1️⃣ **Importação e limpeza de dados.**  
+2️⃣ **Conversão e organização das colunas.**  
+3️⃣ **Criação de gráficos para análise setorial:**  
+- Evolução da garantia física sazonalizada.  
+- Comparação do lastro MRE vs. fora do MRE.  
+- Percentual de cada lastro em relação ao total sazonalizado.
 
 ## 📈 **Principais Gráficos**
 ### 📊 Evolução da Garantia Física Sazonalizada
@@ -59,16 +56,16 @@ Demonstração da representatividade de cada componente no total sazonalizado.
 
 ## 💡 **Principais Insights**
 
-✅ **A sazonalização mostra variação significativa ao longo do ano**, impactando previsibilidade de receita.
-✅ **O MRE tem papel relevante para o sistema e mitigação de riscos hidrológicos**.
-✅ Suporte para comercializadoras e geradoras planejarem modulação e fluxo de caixa.
+✅ **A sazonalização mostra variação significativa ao longo do ano**, impactando previsibilidade de receita.  
+✅ **O MRE tem papel relevante para o sistema e mitigação de riscos hidrológicos**.  
+✅ Suporte para comercializadoras e geradoras planejarem modulação e fluxo de caixa.  
 
 ---
 
 ## 🚀 **Próximos Passos**
 
-🔹 Cruzar sazonalização com PLD histórico para simular receitas potenciais.
-🔹 Comparar sazonalização 2025 com histórico para identificar tendências.
+🔹 Cruzar sazonalização com PLD histórico para simular receitas potenciais.  
+🔹 Comparar sazonalização 2025 com histórico para identificar tendências.  
 🔹 Desenvolver dashboards dinâmicos no Power BI ou Plotly.
 
 ---
