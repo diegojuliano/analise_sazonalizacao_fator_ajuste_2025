@@ -1,13 +1,19 @@
-📊 Análise de Sazonalização e Lastro de Garantia Física no MRE (2025)
-Este projeto analisa dados de sazonalização da garantia física no MRE em 2025, identificando a variação mensal da energia sazonalizada, o comportamento do lastro das usinas participantes e fora do MRE, apoiando previsibilidade de receita e planejamento no setor elétrico.
+# 📊 Análise de Sazonalização e Lastro de Garantia Física no MRE (2025)
 
-🎯 Objetivos
+Este projeto **analisa dados de sazonalização da garantia física no MRE em 2025**, identificando a variação mensal da energia sazonalizada, o comportamento do lastro das usinas participantes e fora do MRE, apoiando previsibilidade de receita e planejamento no setor elétrico.
+
+---
+
+## 🎯 **Objetivos**
 ✅ Analisar a evolução mensal da garantia física sazonalizada em 2025.
 ✅ Comparar o lastro das usinas participantes do MRE vs. fora do MRE.
 ✅ Avaliar a representatividade percentual de MRE e fora do MRE no total sazonalizado.
-✅ Gerar gráficos claros para monitoramento e aprendizado regulatório.
+✅ Gerar **gráficos claros para monitoramento e aprendizado regulatório**.
 
-⚡ Contexto Regulatório
+---
+
+## ⚡ **Contexto Regulatório**
+
 O Mecanismo de Realocação de Energia (MRE) compartilha riscos hidrológicos entre hidrelétricas, enquanto a sazonalização da garantia física modula a energia ao longo do ano, alinhando receitas e operação.
 
 Este estudo permite entender:
@@ -15,7 +21,10 @@ Este estudo permite entender:
 🔹 A relevância do MRE na modulação do sistema.
 🔹 Suporte a estratégias de comercialização e previsibilidade de caixa.
 
-🛠️ Etapas Realizadas
+---
+
+## **🛠️ Etapas Realizadas**
+
 1️⃣ Importação e limpeza de dados.
 2️⃣ Conversão e organização das colunas.
 3️⃣ Criação de gráficos para análise setorial:
