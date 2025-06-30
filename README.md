@@ -86,7 +86,7 @@ Sugestões e colaborações são bem-vindas para expandir este estudo e contribu
 
 ## 📂 **Dados**
 
-Os dados utilizados são públicos e foram extraídos do site da [CCEE]([https://www.ons.org.br/](https://dadosabertos.ccee.org.br/).
+Os dados utilizados são públicos e foram extraídos do site da [CCEE](https://dadosabertos.ccee.org.br/).
 
 ---
 
