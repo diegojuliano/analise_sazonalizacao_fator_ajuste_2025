@@ -7,8 +7,8 @@ Este projeto **analisa dados de sazonalização da garantia física no MRE em 20
 ## 🎯 **Objetivos**
 
 ✅ Analisar a evolução mensal da garantia física sazonalizada em 2025.  
-✅ Comparar o lastro das usinas participantes do MRE vs. fora do MRE.
-✅ Avaliar a representatividade percentual de MRE e fora do MRE no total sazonalizado.
+✅ Comparar o lastro das usinas participantes do MRE vs. fora do MRE.  
+✅ Avaliar a representatividade percentual de MRE e fora do MRE no total sazonalizado.  
 ✅ Gerar **gráficos claros para monitoramento e aprendizado regulatório**.
 
 ---
