@@ -44,14 +44,18 @@ Visualização da modulação da energia ao longo dos meses de 2025.
 ---
 
 ### ⚖️ Lastro MRE vs Fora do MRE
+
 <img src="imagens/lastro_mre_vs_fora_mre.png" alt="Lastro MRE vs Fora do MRE" width="600"/>
 Comparação entre o lastro das usinas participantes e fora do MRE.
 
 ---
 
 ### 📊 Percentual do Lastro MRE e Fora do MRE
+
 <img src="imagens/percentual_mre_vs_fora_mre.png" alt="Percentual do Lastro MRE e Fora do MRE" width="600"/>
 Demonstração da representatividade de cada componente no total sazonalizado.
+
+---
 
 ## 💡 **Principais Insights**
 
